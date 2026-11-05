@@ -25,7 +25,7 @@ const MODEL_MAPPING = {
   'gpt-3.5-turbo': 'minimaxai/minimax-m3.1-flash',
   'gpt-4': 'deepseek-ai/deepseek-v4.1-flash',
   'gpt-4-turbo': 'nvidia/nemotron-3.5-lightning-30b-a3b',
-  'gpt-4o': 'moonshotai/kimi-k3.1-pro',
+  'gpt-4o': 'mistralai/Mistral Large 4',
   'claude-3-opus': 'openai/gpt-oss-120b',
   'claude-3-sonnet': 'openai/gpt-oss-20b',
   'gemini-pro': 'qwen/qwen3-next-80b-a3b-thinking' 
